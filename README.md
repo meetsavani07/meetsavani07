@@ -26,4 +26,17 @@ Currently, I do not have any blog posts. Check back later for updates!
 
 ## Connect with Me
 
-<a href="https://instagram.com/_meet_savani_" target="blank"><i class='bx bxl-instagram'></i><a>
+<a href="https://linkedin.com/in/meet savani" target="_blank">
+    <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"        alt="meet savani" height="30" width="40"/>
+</a>
+<a href="https://twitter.com/meetsavani07" target="_blank">
+		<img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+		alt="meetsavani07" height="30" width="40"/>
+</a>
+<a href="https://instagram.com/_meet_savani_" target="_blank">
+		<img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+		alt="_meet_savani_" height="30" width="40"/>
+</a>
+<a href="https://instagram.com/_meet_savani_" target="_blank">
+		
+</a>
