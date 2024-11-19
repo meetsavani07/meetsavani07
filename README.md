@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Meet Savani</h1>
 <h3 align="center">A passionate Web developer from India</h3>
-https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif
+<img scr="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif"></img>
 - 🔭 I’m currently working on **VPN in React Native**
 
 - 🌱 I’m currently learning **React Native & MongoDB**
