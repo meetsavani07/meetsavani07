@@ -27,6 +27,7 @@ Currently, I do not have any blog posts. Check back later for updates!
 ## Connect with Me
 
 [Linkedln](https://www.linkedin.com/feed/)
+<a href="https://twitter.com/meetsavani07" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
 		alt="meetsavani07" height="30" width="40" />
-[X](https://x.com/home)
+</a>
