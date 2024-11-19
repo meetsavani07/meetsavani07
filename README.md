@@ -1,10 +1,10 @@
-## Hi there! 👋
-
-I'm **Meet Savani**, a passionate developer with a knack for crafting engaging and efficient web applications. Let's collaborate and create something amazing together!
+<h1>
+	Hi 👋, I'm Meet Savani
+</h1> 
 
 ## About Me
 
-I am a developer based in an undisclosed location, dedicated to building user-friendly applications. Currently, I am exploring new technologies and enhancing my skills in web development.
+I am a developer based in an undisclosed location, dedicated to building user-friendly applications. Currently,passionate developer with a knack for crafting engaging and efficient web applications. I am exploring new technologies and enhancing my skills in web development. Let's collaborate and create something amazing together!
 
 ## Skills & Technologies
 
