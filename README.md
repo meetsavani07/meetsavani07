@@ -103,17 +103,6 @@ I am a developer based in an undisclosed location, dedicated to building user-fr
 	alt="linux" width="40" height="40" />
 </a>
 
-
-
-## GitHub Stats
-### 📈 GitHub Statistics
-
-- **Public Repositories:** 5
-- **Followers:** 0
-- **Following:** 0
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=meetsavani07&show_icons=true&theme=radical)
-
 ## Latest Blog Posts
 
 Currently, I do not have any blog posts. Check back later for updates!
