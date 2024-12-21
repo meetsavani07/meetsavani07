@@ -49,7 +49,7 @@ I am a developer based in an undisclosed location, dedicated to building user-fr
 	alt="typescript" width="40" height="40"/>
 </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-	<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" 
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" 
 	alt="python" width="40" height="40"/> 
 </a>
 
