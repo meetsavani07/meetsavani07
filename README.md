@@ -45,10 +45,13 @@ I am a developer based in an undisclosed location, dedicated to building user-fr
 	alt="javascript" width="40" height="40"/>
 </a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+	<img align="left"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
 	alt="typescript" width="40" height="40"/>
 </a>
-
+<a href="https://www.python.org/" target="_blank" rel="noreferrer">
+	<img scr="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" 
+	alt="python" width="40" height="40"> 
+</a>
 ## Backend Development
 <a href="https://nodejs.org" target="_blank" rel="noreferrer">
 	<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
