@@ -52,6 +52,7 @@ I am a developer based in an undisclosed location, dedicated to building user-fr
 	<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" 
 	alt="python" width="40" height="40"/> 
 </a>
+
 ## Backend Development
 <a href="https://nodejs.org" target="_blank" rel="noreferrer">
 	<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
