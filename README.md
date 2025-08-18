@@ -117,35 +117,6 @@
 
 ###
 
-<h3 align="left">⚒ Project</h3>
-
-###
-
-<br clear="both">
-
-<div align="" style="width: 100%">
-  <div>
-    <a target="_blank" href="https://meet-savani.netlify.app/">
-    <img style="width: 30%" alt="Meet-Savani" src="https://github.com/user-attachments/assets/cda66ed5-6b17-448d-8097-78dd396f9fe4" />
-    <h4>Portfolio</h4>
-  </a>
-  </div>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
-    
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/3">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/3" alt="Medium post 4"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/4">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/4" alt="Medium post 5"  />
-  </a>
-</div>
-
-###
-
 <h3 align="left">🔥 My Stats :</h3>
 
 ###
