@@ -125,7 +125,7 @@
 
 <div align="center" style="width: 100%">
   <a target="_blank" href="https://meet-savani.netlify.app/">
-    <img alt="Meet-Savani" src="https://github.com/user-attachments/assets/cda66ed5-6b17-448d-8097-78dd396f9fe4" />
+    <img style="30%" alt="Meet-Savani" src="https://github.com/user-attachments/assets/cda66ed5-6b17-448d-8097-78dd396f9fe4" />
   </a>
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
     <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
