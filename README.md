@@ -1,4 +1,4 @@
-****<div align="center">
+<div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
@@ -97,7 +97,7 @@
 
 ###
 
-<div align="left" underline="none">
+<div align="left" text-decoration="none">
     <a href="https://www.linkedin.com/in/meet-savani-30088931b/" target="_blank">
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" />
     </a>
