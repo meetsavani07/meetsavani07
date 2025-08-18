@@ -97,8 +97,8 @@
 
 ###
 
-<div align="left" text-decoration="none">
-    <a href="https://www.linkedin.com/in/meet-savani-30088931b/" target="_blank">
+<div align="left">
+    <a href="https://www.linkedin.com/in/meet-savani-30088931b/" target="_blank" style="text-decoration: none;>
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" />
     </a>
     <a href="https://wa.me/9824357565" target="_blank">
