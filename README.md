@@ -123,7 +123,7 @@
 
 <br clear="both">
 
-<div align="center" style="width: 100%">
+<div align="" style="width: 100%">
   <a target="_blank" href="https://meet-savani.netlify.app/">
     <img style="width: 30%" alt="Meet-Savani" src="https://github.com/user-attachments/assets/cda66ed5-6b17-448d-8097-78dd396f9fe4" />
   </a>
