@@ -17,15 +17,17 @@
 
 ###
 
-<p align="center">Crafting digital experiences that blend creativity with technical excellence. Let's bring your vision to life with modern web technologies.</p>
 
-###
 
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
 <p align="left">- 🔭 I’m working as freelancer<br>- 📚 I'm currently learning Backend Devlopment<br>- ⚡ In my free time I do find me</p>
+
+###
+
+<p align="center">Crafting digital experiences that blend creativity with technical excellence. Let's bring your vision to life with modern web technologies.</p>
 
 ###
 
