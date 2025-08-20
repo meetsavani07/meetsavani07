@@ -17,26 +17,6 @@
 <p align="center">Crafting digital experiences that blend creativity with technical excellence. Let's bring your vision to life with modern web technologies.</p>
 
 ###
-<h3 align="center">📱 Connect with Me</h3>
-
-###
-
-<div align="center" text-decoration="none">
-    <a href="https://www.linkedin.com/in/meet-savani-30088931b/" style="text-decoration: none" target="_blank" >
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" />
-    </a>
-    <a href="https://wa.me/9824357565"  target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="42" height="30" />
-    </a>
-    <a href="mailto:meetsavani0711@gmail.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" />
-    </a>
-    <a href="https://x.com/meetsavani07"  target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="42" height="30" />
-    </a>
-</div>  
-
-###
 
 <h3 align="left">👩‍💻  About Me</h3>
 
@@ -110,5 +90,25 @@
 
 ###
 
+<h3 align="left">📱 Connect with Me</h3>
+
+###
+
+<div align="left">
+    <a href="https://www.linkedin.com/in/meet-savani-30088931b/" style="text-decoration: none" target="_blank" >
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" />
+    </a>
+    <a href="https://wa.me/9824357565"  target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="42" height="30" />
+    </a>
+    <a href="mailto:meetsavani0711@gmail.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" />
+    </a>
+    <a href="https://x.com/meetsavani07"  target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="42" height="30" />
+    </a>
+</div>  
+
+###
 
 
