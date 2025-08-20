@@ -22,23 +22,18 @@
 ###
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/meet-savani-30088931b/" target="_blank" >
+    <a href="https://www.linkedin.com/in/meet-savani-30088931b/" style="text-decoration: none" target="_blank" >
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" />
     </a>
-    <a href="https://wa.me/9824357565" target="_blank">
+    <a href="https://wa.me/9824357565" style="text-decoration: none" target="_blank">
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="42" height="30" />
     </a>
-    <a href="mailto:meetsavani0711@gmail.com" target="_blank">
+    <a href="mailto:meetsavani0711@gmail.com" style="text-decoration: none" target="_blank">
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" />
     </a>
-    <a href="https://x.com/meetsavani07" target="_blank">
+    <a href="https://x.com/meetsavani07" style="text-decoration: none" target="_blank">
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="42" height="30" />
     </a>
-    <style>
-      a{
-        text-decoration: none;
-      }
-    </style>
 </div>  
 
 ###
