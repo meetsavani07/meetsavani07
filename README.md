@@ -17,7 +17,7 @@
 <p align="center">Crafting digital experiences that blend creativity with technical excellence. Let's bring your vision to life with modern web technologies.</p>
 
 ###
-<h2 align="center">📱 Connect with Me</h2>
+<h3 align="center">📱 Connect with Me</h3>
 
 ###
 
