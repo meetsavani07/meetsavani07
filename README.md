@@ -21,7 +21,7 @@
 
 ###
 
-<div align="center">
+<div align="center" style="text-decoration: none">
     <a href="https://www.linkedin.com/in/meet-savani-30088931b/" style="text-decoration: none" target="_blank" >
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" />
     </a>
