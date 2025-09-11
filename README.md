@@ -5,14 +5,6 @@
 ###
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=meetsavani07.meetsavani07&"  />
-</div>
-
-###
-
 <h1 align="center">Hi There!👋🏻<br>I'm Meet Savani</h1>
 <p align="center">Crafting digital experiences that blend creativity with technical excellence. Let's bring your vision to life with modern web technologies.</p>
 
