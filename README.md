@@ -14,11 +14,11 @@
 
 ###
 
-<p align="left">- 🔭 I’m working as a freelancer.
+<p align="left">- 🔭 I’m working as a freelancer.</p>
 
-📚 I’m currently learning AI/ML in web technologies.
+<p align="left">- 📚 I’m currently learning AI/ML in web technologies.</p>
 
-⚡ In my free time, I try to reconnect with my inner child.</p>
+<p align="left">- ⚡ In my free time, I try to reconnect with my inner child.</p>
 
 ###
 
