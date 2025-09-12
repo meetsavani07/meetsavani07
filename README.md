@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working as freelancer<br>- 📚 I'm currently learning Backend Devlopment<br>- ⚡ In my free time I do find me</p>
+<p align="left">- 🔭 I’m working as freelancer<br>- 📚 I'm currently learning AI/ML IN web technologies.<br>- ⚡ In my free time I do find me</p>
 
 ###
 
