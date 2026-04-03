@@ -16,7 +16,7 @@
 
 <p align="left">- 🔭 I’m working as a freelancer.</p>
 
-<p align="left">- 📚 I’m currently learning AI/ML in web technologies.</p>
+<p align="left">- 📚 I’m currently learning AI Prompt engineering in Graphic Design.</p>
 
 <p align="left">- ⚡ In my free time, I try to reconnect with my inner child.</p>
 
