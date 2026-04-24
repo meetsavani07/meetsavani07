@@ -18,10 +18,10 @@ Focused on building secure web applications and developing practical cybersecuri
 
 <p align="left">
 - 🎓 BCA Graduate from India <br>
-- 🔐 Currently transitioning into Cybersecurity (Web Security focus) <br>
+- 🔐 Transitioning into Cybersecurity (Web Security focus) <br>
 - 🧠 Learning Networking, Linux, and OWASP Top 10 <br>
 - 🛠 Building real-world security projects and audit reports <br>
-- 🌍 Goal: Pursue Master's in Cybersecurity in Germany and work in global tech roles
+- 🌍 Goal: Work in global cybersecurity roles (remote or abroad)
 </p>
 
 ---
@@ -30,11 +30,11 @@ Focused on building secure web applications and developing practical cybersecuri
 
 <p align="left">
 - 🔍 Website Security Audit (Basic vulnerability assessment & report) <br>
-- 🛡️ Vulnerability Scanning Project (Using tools like OWASP ZAP / Nmap) <br>
+- 🛡️ Vulnerability Scanning Project (OWASP ZAP / Nmap) <br>
 - 💻 Freelance Web Development Projects (Frontend + Deployment)
 </p>
 
-<p><i>(More projects coming as I build hands-on cybersecurity experience)</i></p>
+<p><i>(Actively building more hands-on cybersecurity projects)</i></p>
 
 ---
 
@@ -44,7 +44,7 @@ Focused on building secure web applications and developing practical cybersecuri
 - 🌐 Networking Fundamentals (TCP/IP, HTTP/HTTPS) <br>
 - 🐧 Linux Basics <br>
 - 🔎 Web Security (OWASP Top 10) <br>
-- 🧰 Tools: Burp Suite (Learning), Nmap, OWASP ZAP <br>
+- 🧰 Tools: Nmap, OWASP ZAP, Burp Suite (Learning) <br>
 - 📚 Platforms: TryHackMe, Hack The Box (in progress)
 </p>
 
@@ -53,7 +53,7 @@ Focused on building secure web applications and developing practical cybersecuri
 <h3 align="left">💻 Tech Stack</h3>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind,materialui" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind,materialui,nodejs,express,mongodb" />
 </div>
 
 ---
@@ -61,7 +61,7 @@ Focused on building secure web applications and developing practical cybersecuri
 <h3 align="left">🛠 Tools & Software</h3>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,mongodb,postman,figma,ps,supabase" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,docker,linux,figma,ps,supabase" />
 </div>
 
 ---
@@ -69,7 +69,7 @@ Focused on building secure web applications and developing practical cybersecuri
 <h3 align="left">🌐 Deployment</h3>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=netlify,vercel,github" />
+  <img src="https://skillicons.dev/icons?i=netlify,vercel,github,render" />
 </div>
 
 ---
@@ -77,9 +77,9 @@ Focused on building secure web applications and developing practical cybersecuri
 <h3 align="left">🎯 Future Goals</h3>
 
 <p align="left">
-- 🎓 Master's in Cybersecurity in Germany <br>
 - 🔐 Specialize in Web Security & Ethical Hacking <br>
-- 💼 Work in global cybersecurity roles (remote or abroad)
+- 🌍 Work in global cybersecurity roles <br>
+- 🚀 Build strong practical expertise through real-world projects
 </p>
 
 ---
