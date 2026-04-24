@@ -1,108 +1,99 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
-###
-###
+<h1 align="center">Hi 👋, I'm Meet Savani</h1>
 
-<h1 align="center">Hi There!👋🏻<br>I'm Meet Savani</h1>
-<p align="center">Crafting digital experiences that blend creativity with technical excellence. Let's bring your vision to life with modern web technologies.</p>
+<p align="center">
+BCA Graduate | Aspiring Cybersecurity Professional | Web Security Enthusiast
+</p>
 
-###
+<p align="center">
+Focused on building secure web applications and developing practical cybersecurity skills for global opportunities.
+</p>
 
-<h3 align="left">👩‍💻  About Me</h3>
+---
 
-###
+<h3 align="left">👨‍💻 About Me</h3>
 
-<p align="left">- 🔭 I’m working as a freelancer.</p>
+<p align="left">
+- 🎓 BCA Graduate from India <br>
+- 🔐 Currently transitioning into Cybersecurity (Web Security focus) <br>
+- 🧠 Learning Networking, Linux, and OWASP Top 10 <br>
+- 🛠 Building real-world security projects and audit reports <br>
+- 🌍 Goal: Pursue Master's in Cybersecurity in Germany and work in global tech roles
+</p>
 
-<p align="left">- 📚 I’m currently learning AI Prompt engineering in Graphic Design.</p>
+---
 
-<p align="left">- ⚡ In my free time, I try to reconnect with my inner child.</p>
+<h3 align="left">🚀 Projects & Work</h3>
 
-###
+<p align="left">
+- 🔍 Website Security Audit (Basic vulnerability assessment & report) <br>
+- 🛡️ Vulnerability Scanning Project (Using tools like OWASP ZAP / Nmap) <br>
+- 💻 Freelance Web Development Projects (Frontend + Deployment)
+</p>
 
-<h3 align="left">👩‍💻Frontend Development Language</h3>
+<p><i>(More projects coming as I build hands-on cybersecurity experience)</i></p>
 
-###
+---
+
+<h3 align="left">🔐 Cybersecurity & Learning</h3>
+
+<p align="left">
+- 🌐 Networking Fundamentals (TCP/IP, HTTP/HTTPS) <br>
+- 🐧 Linux Basics <br>
+- 🔎 Web Security (OWASP Top 10) <br>
+- 🧰 Tools: Burp Suite (Learning), Nmap, OWASP ZAP <br>
+- 📚 Platforms: TryHackMe, Hack The Box (in progress)
+</p>
+
+---
+
+<h3 align="left">💻 Tech Stack</h3>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=materialui" height="40" alt="materialui logo"  />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind,materialui" />
 </div>
 
-###
+---
 
-<h3 align="left">🛠 Tool & Software</h3>
-
-###
+<h3 align="left">🛠 Tools & Software</h3>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,mongodb,postman,figma,ps,supabase" />
 </div>
 
-###
+---
 
-<h3 align="left">🌐 Deployment Tools</h3>
-
-###
+<h3 align="left">🌐 Deployment</h3>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="netlify logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=netlify,vercel,github" />
 </div>
 
-###
+---
 
-<h3 align="left">📱 Connect with Me</h3>
+<h3 align="left">🎯 Future Goals</h3>
 
-###
+<p align="left">
+- 🎓 Master's in Cybersecurity in Germany <br>
+- 🔐 Specialize in Web Security & Ethical Hacking <br>
+- 💼 Work in global cybersecurity roles (remote or abroad)
+</p>
+
+---
+
+<h3 align="left">📫 Connect with Me</h3>
 
 <div align="left">
-    <a href="https://www.linkedin.com/in/meet-savani-30088931b/" style="text-decoration: none" target="_blank" >
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" />
-    </a>
-    <a href="https://wa.me/9824357565"  target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="42" height="30" />
-    </a>
-    <a href="mailto:meetsavani0711@gmail.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" />
-    </a>
-    <a href="https://x.com/meetsavani07"  target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="42" height="30" />
-    </a>
-</div>  
-
-###
+  <a href="https://www.linkedin.com/in/meet-savani-30088931b/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" />
+  </a>
+  <a href="mailto:meetsavani0711@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" />
+  </a>
+  <a href="https://x.com/meetsavani07" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="42" height="30" />
+  </a>
+</div>
