@@ -1,12 +1,12 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+  <img height="160" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Meet Savani</h1>
 
-<p align="center">
-BCA Graduate | Aspiring Cybersecurity Professional | Researcher
-</p>
+<h3 align="center">
+BCA Graduate • Aspiring Cybersecurity Professional • Researcher
+</h3>
 
 <p align="center">
 Focused on building secure web applications and developing practical cybersecurity skills for global opportunities.
@@ -14,45 +14,53 @@ Focused on building secure web applications and developing practical cybersecuri
 
 ---
 
-<h3 align="left">👨‍💻 About Me</h3>
+## 👨‍💻 About Me
 
 <p align="left">
-- 🎓 BCA Graduate from India <br>
-- 🔐 Transitioning into Cybersecurity <br>
-- 🧠 Learning Networking, Linux, and OWASP Top 10 <br>
-- 🛠  Building real-world security projects and audit reports <br>
-- 🌍 Goal: Work in global cybersecurity roles (remote or abroad)
+
+🎓 BCA Graduate from India  
+🔐 Transitioning into Cybersecurity  
+🧠 Learning Networking, Linux, and OWASP Top 10  
+🛠 Building real-world security projects and audit reports  
+🌍 Goal: Work in global cybersecurity roles (Remote / Abroad)
+
 </p>
 
 ---
 
-<h3 align="left">🚀 Projects & Work</h3>
+## 🚀 Projects & Work
 
 <p align="left">
-- 🔍 Website Security Audit & Defense Mechanisms (Basic vulnerability assessment & report) <br>
-- 🛡️ Vulnerability Scanning Project (OWASP ZAP / Nmap) <br>
-- 💻 Freelance Graphic Design With AI Projects (AI OR From Scratch Design)
+
+🔍 Website Security Audit & Defense Mechanisms  
+🛡 Vulnerability Scanning Project (OWASP ZAP / Nmap)  
+💻 Freelance Graphic Design with AI & Custom Design Work
+
 </p>
 
-<p><i>(Actively building more hands-on cybersecurity projects)</i></p>
-
----
-
-<h3 align="left">🔐 Cybersecurity & Learning</h3>
-
 <p align="left">
-- 🌐 Networking Fundamentals (TCP/IP, HTTP/HTTPS) <br>
-- 🐧 Linux Basics <br>
-- 🔎 Web Security & Defense Mechanisms (OWASP Top 10) <br>
-- 🧰 Tools: Nmap, OWASP ZAP, Burp Suite (Learning) <br>
-- 📚 Platforms: TryHackMe, Hack The Box (in progress)
+<i>Currently building more hands-on cybersecurity projects.</i>
 </p>
 
 ---
 
-## 💻 Tech Stack
+## 🔐 Cybersecurity & Learning
 
-<div align="left">
+<p align="left">
+
+🌐 Networking Fundamentals (TCP/IP, HTTP/HTTPS)  
+🐧 Linux Basics  
+🔎 Web Security & OWASP Top 10  
+🧰 Learning Tools: Nmap, OWASP ZAP, Burp Suite  
+📚 Platforms: TryHackMe & Hack The Box
+
+</p>
+
+---
+
+# 💻 Tech Stack
+
+<div align="center">
 
 | Frontend | Programming | Security Scripting | Systems |
 |---|---|---|---|
@@ -62,65 +70,190 @@ Focused on building secure web applications and developing practical cybersecuri
 
 ---
 
-## 🛠 Tools & Software
+# 🛠 Tools & Software
 
-<div align="left">
+<div align="center">
 
 | Development | DevOps & Backend | Design |
 |---|---|---|
-| <img src="https://skillicons.dev/icons?i=vscode,git,github" /> | <img src="https://skillicons.dev/icons?i=docker,postman,supabase" /> | <img src="https://skillicons.dev/icons?i=figma,photoshop" /> |
+| <img src="https://skillicons.dev/icons?i=vscode,git,github" /> | <img src="https://skillicons.dev/icons?i=docker,postman,supabase,firebase" /> | <img src="https://skillicons.dev/icons?i=figma,ps" /> |
 
 </div>
 
 ---
 
-## 🔐 Cybersecurity Tools
+# 🔐 Cybersecurity Tools
 
-<div align="le">
+<div align="center">
 
-| Operating System | Security Tools | Learning Platforms |
-|---|---|---|
-| <img src="https://skillicons.dev/icons?i=kali,linux" /> | <img src="https://go-skill-icons.vercel.app/api/icons?i=nmap,wireshark" height="48" /> | <img src="https://skillicons.dev/icons?i=github" /> |
+<table>
+<tr>
+
+<td align="center" width="33%">
+
+### 🐧 Operating Systems
+
+<img src="https://skillicons.dev/icons?i=linux,kali" />
+
+Linux • Kali Linux
+
+</td>
+
+<td align="center" width="33%">
+
+### 🛡 Security Tools
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+<br><br>
+
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+<br><br>
+
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+<br><br>
+
+<img src="https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
+<br><br>
+
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
+
+</p>
+
+</td>
+
+<td align="center" width="33%">
+
+### 📚 Learning Platforms
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" />
+<br><br>
+
+<img src="https://img.shields.io/badge/Hack_The_Box-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" />
+
+</p>
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
+---
+
+# 🌐 Platforms & Deployment
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="50%">
+
+### 🚀 Deployment Platforms
+
+<img src="https://skillicons.dev/icons?i=vercel,netlify,github,render" />
+
+Vercel • Netlify • GitHub Pages • Render
+
+</td>
+
+<td align="center" width="50%">
+
+### ⚡ Backend & Cloud
+
+<img src="https://skillicons.dev/icons?i=supabase,firebase,docker" />
+
+Supabase • Firebase • Docker
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# 🎯 Future Goals
+
 <p align="left">
 
-🛡️ Nmap • OWASP ZAP • Burp Suite • Wireshark • Metasploit  
-📚 TryHackMe • Hack The Box
+🔐 Specialize in Web Security & Ethical Hacking  
+🌍 Work in global cybersecurity roles  
+🚀 Build strong practical expertise through real-world projects
 
 </p>
 
 ---
 
-<h3 align="left">🌐 Deployment</h3>
+## 📫 Contact Information
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=netlify,vercel,github,render" />
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="33%">
+
+### 💼 LinkedIn
+
+<a href="https://www.linkedin.com/in/meet-savani-30088931b/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="60" />
+</a>
+
+<br>
+
+<a href="https://www.linkedin.com/in/meet-savani-30088931b/" target="_blank">
+<b>Connect on LinkedIn</b>
+</a>
+
+</td>
+
+<td align="center" width="33%">
+
+### 📧 Email
+
+<a href="mailto:meetsavani0711@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="60" />
+</a>
+
+<br>
+
+<b>meetsavani0711@gmail.com</b>
+
+</td>
+
+<td align="center" width="33%">
+
+### 🐦 Twitter / X
+
+<a href="https://x.com/meetsavani07" target="_blank">
+  <img src="https://skillicons.dev/icons?i=twitter" height="60" />
+</a>
+
+<br>
+
+<a href="https://x.com/meetsavani07" target="_blank">
+<b>@meetsavani07</b>
+</a>
+
+</td>
+
+</tr>
+</table>
+
 </div>
 
 ---
 
-<h3 align="left">🎯 Future Goals</h3>
+<div align="center">
 
-<p align="left">
-- 🔐 Specialize in Web Security & Ethical Hacking <br>
-- 🌍 Work in global cybersecurity roles <br>
-- 🚀 Build strong practical expertise through real-world projects
-</p>
+### ⚡ Response Time: Usually within 24–48 hours  
+### 🔐 Open for Cybersecurity Opportunities & Collaboration & Freelancing AI Design
 
----
-
-<h3 align="left">📫 Connect with Me</h3>
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/meet-savani-30088931b/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" />
-  </a>
-  <a href="mailto:meetsavani0711@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" />
-  </a>
-  <a href="https://x.com/meetsavani07" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="42" height="30" />
-  </a>
 </div>
