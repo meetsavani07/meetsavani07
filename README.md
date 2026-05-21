@@ -43,7 +43,7 @@ Focused on building secure web applications and developing practical cybersecuri
 <p align="left">
 - 🌐 Networking Fundamentals (TCP/IP, HTTP/HTTPS) <br>
 - 🐧 Linux Basics <br>
-- 🔎 Web Security (OWASP Top 10) <br>
+- 🔎 Web Security & Defense Mechanisms (OWASP Top 10) <br>
 - 🧰 Tools: Nmap, OWASP ZAP, Burp Suite (Learning) <br>
 - 📚 Platforms: TryHackMe, Hack The Box (in progress)
 </p>
@@ -53,7 +53,7 @@ Focused on building secure web applications and developing practical cybersecuri
 <h3 align="left">💻 Tech Stack</h3>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind,materialui,nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,pyhton," />
 </div>
 
 ---
