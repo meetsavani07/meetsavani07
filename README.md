@@ -224,7 +224,7 @@ Supabase • Firebase • Docker
 
 <br>
 
-<b>meetsavani0711@gmail.com</b>
+<b>savanimeet11@gmail.com</b>
 
 </td>
 
