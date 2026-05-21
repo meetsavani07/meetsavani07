@@ -29,8 +29,7 @@ Focused on building secure web applications and developing practical cybersecuri
 <h3 align="left">🚀 Projects & Work</h3>
 
 <p align="left">
-- 🔍 Website Security Audit & Defense Mechanisms<img width="985" height="175" alt="image" src="https://github.com/user-attachments/assets/5e0ec840-62d3-4b9e-aa9c-4a1cb5819e7e" />
- (Basic vulnerability assessment & report) <br>
+- 🔍 Website Security Audit & Defense Mechanisms (Basic vulnerability assessment & report) <br>
 - 🛡️ Vulnerability Scanning Project (OWASP ZAP / Nmap) <br>
 - 💻 Freelance Web Development Projects (Frontend + Deployment)
 </p>
