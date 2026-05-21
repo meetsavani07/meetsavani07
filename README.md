@@ -31,7 +31,7 @@ Focused on building secure web applications and developing practical cybersecuri
 <p align="left">
 - 🔍 Website Security Audit & Defense Mechanisms (Basic vulnerability assessment & report) <br>
 - 🛡️ Vulnerability Scanning Project (OWASP ZAP / Nmap) <br>
-- 💻 Freelance Web Development Projects (Frontend + Deployment)
+- 💻 Freelance Graphic Design With AI Projects (AI + Traditional Design)
 </p>
 
 <p><i>(Actively building more hands-on cybersecurity projects)</i></p>
