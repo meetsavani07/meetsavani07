@@ -50,19 +50,46 @@ Focused on building secure web applications and developing practical cybersecuri
 
 ---
 
-<h3 align="left">💻 Tech Stack</h3>
+## 💻 Tech Stack
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,pyhton," />
+
+| Frontend | Programming | Security Scripting | Systems |
+|---|---|---|---|
+| <img src="https://skillicons.dev/icons?i=html,css,js" /> | <img src="https://skillicons.dev/icons?i=python,c" /> | <img src="https://skillicons.dev/icons?i=bash,powershell" /> | <img src="https://skillicons.dev/icons?i=linux" /> |
+
 </div>
 
 ---
 
-<h3 align="left">🛠 Tools & Software</h3>
+## 🛠 Tools & Software
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,docker,linux,figma,ps,supabase" />
+
+| Development | DevOps & Backend | Design |
+|---|---|---|
+| <img src="https://skillicons.dev/icons?i=vscode,git,github" /> | <img src="https://skillicons.dev/icons?i=docker,postman,supabase" /> | <img src="https://skillicons.dev/icons?i=figma,photoshop" /> |
+
 </div>
+
+---
+
+## 🔐 Cybersecurity Tools
+
+<div align="le">
+
+| Operating System | Security Tools | Learning Platforms |
+|---|---|---|
+| <img src="https://skillicons.dev/icons?i=kali,linux" /> | <img src="https://go-skill-icons.vercel.app/api/icons?i=nmap,wireshark" height="48" /> | <img src="https://skillicons.dev/icons?i=github" /> |
+
+</div>
+
+<p align="left">
+
+🛡️ Nmap • OWASP ZAP • Burp Suite • Wireshark • Metasploit  
+📚 TryHackMe • Hack The Box
+
+</p>
 
 ---
 
