@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Meet Savani</h1>
 
 <p align="center">
-BCA Graduate | Aspiring Cybersecurity Professional | Web Security Enthusiast
+BCA Graduate | Aspiring Cybersecurity Professional | Researcher
 </p>
 
 <p align="center">
