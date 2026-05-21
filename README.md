@@ -218,7 +218,7 @@ Supabase • Firebase • Docker
 
 ### 📧 Email
 
-<a href="mailto:meetsavani0711@gmail.com">
+<a href="mailto:savanimeet11@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" height="60" />
 </a>
 
