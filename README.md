@@ -18,9 +18,9 @@ Focused on building secure web applications and developing practical cybersecuri
 
 <p align="left">
 - 🎓 BCA Graduate from India <br>
-- 🔐 Transitioning into Cybersecurity (Web Security focus) <br>
+- 🔐 Transitioning into Cybersecurity <br>
 - 🧠 Learning Networking, Linux, and OWASP Top 10 <br>
-- 🛠 Building real-world security projects and audit reports <br>
+- 🛠  Building real-world security projects and audit reports <br>
 - 🌍 Goal: Work in global cybersecurity roles (remote or abroad)
 </p>
 
@@ -29,7 +29,8 @@ Focused on building secure web applications and developing practical cybersecuri
 <h3 align="left">🚀 Projects & Work</h3>
 
 <p align="left">
-- 🔍 Website Security Audit (Basic vulnerability assessment & report) <br>
+- 🔍 Website Security Audit & Defense Mechanisms<img width="985" height="175" alt="image" src="https://github.com/user-attachments/assets/5e0ec840-62d3-4b9e-aa9c-4a1cb5819e7e" />
+ (Basic vulnerability assessment & report) <br>
 - 🛡️ Vulnerability Scanning Project (OWASP ZAP / Nmap) <br>
 - 💻 Freelance Web Development Projects (Frontend + Deployment)
 </p>
